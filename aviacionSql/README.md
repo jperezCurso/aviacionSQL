@@ -46,12 +46,12 @@ Seleccionar la ruta elegida y :
 
 **Imágenes de muestra**
 
-![1](https://github/aviacionSql/tree/aviacionSql/imagenes/01_inicio.png)
+![1](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/01_inicio.png)
 
-![2](https://github/aviacionSql/tree/aviacionSql/imagenes/02_aeropuerto.png)
+![2](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/02_aeropuerto.png)
 
-![3](https://github/aviacionSql/tree/aviacionSql/imagenes/03_port_seleccionado.png)
+![3](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/03_port_seleccionado.png)
 
-![4](https://github/aviacionSql/tree/aviacionSql/imagenes/04_rutas.png)
+![4](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/04_rutas.png)
 
-![5](https://github/aviacionSql/tree/aviacionSql/imagenes/05_ruta_seleccionada.png)
+![5](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/05_ruta_seleccionada.png)
