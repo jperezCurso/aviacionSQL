@@ -1,0 +1,14 @@
+#green { 
+	background-color: #00aa00; 
+	color: white; 
+	font-weight: bold; 
+	border-radius: 6px; 
+	margin-left: 4px; 
+} 
+#red {
+	background-color: #cc0000; 
+	color: white; 
+	font-weight: bold; 
+	border-radius: 6px; 
+	margin-left: 4px;
+}
