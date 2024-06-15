@@ -59,3 +59,7 @@ Seleccionar la ruta elegida y :
 ![4](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/04_rutas.png)
 
 ![5](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/05_ruta_seleccionada.png)
+
+![6](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/06_mysql_01.png)
+
+![7](https://github.com/jperezCurso/aviacionSql/blob/main/aviacionSql/imagenes/07_mysql_02.png)
