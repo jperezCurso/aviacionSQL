@@ -27,7 +27,7 @@ Crear la base de datos, hay que situarse en el directorio basedatos y ejecutar :
     mysql < Dumpdb.sql
     
 
-El proyecto ha sido creado con Eclipse IDE for C/C++ Developeres 2024-03 (4.31.0)
+El proyecto ha sido creado con Eclipse IDE for C/C++ Developers 2024-03 (4.31.0).
 Se puede utilizar el ejecutable del directorio aviacionSql y ejecutarlo con
 
 	
